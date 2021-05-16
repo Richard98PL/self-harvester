@@ -17,4 +17,4 @@ scheduled for daily execution with Advanced Scheduler (heroku)
 db: clearDB MySQL (heroku)
 
 
-SELECT Id,Log FROM Logs ORDER BY Id DESC
+logs query - SELECT Id,Log FROM Logs ORDER BY Id DESC
