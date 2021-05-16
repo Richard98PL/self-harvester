@@ -1,0 +1,4 @@
+asyncio
+requests
+python-binance
+mysql-connector-python
