@@ -15,3 +15,6 @@ logs/api_keys stored in MySQL
 scheduled for daily execution with Advanced Scheduler (heroku)
 
 db: clearDB MySQL (heroku)
+
+
+SELECT Id,Log FROM Logs ORDER BY Id DESC
