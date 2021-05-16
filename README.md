@@ -25,6 +25,8 @@ db: clearDB MySQL (heroku) https://www.cleardb.com/
 logs query - SELECT Id,Log FROM Logs ORDER BY Id DESC
 
 
+
+___________________________________
 PROJECT STARTED 16.05.2021
 
 Starting asset: €34.54
