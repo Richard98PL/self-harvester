@@ -7,9 +7,9 @@ self-harvester
 
 HOSTED ON HEROKU
 
-using binance API
+using binance API https://www.binance.com/en
 
-using coinamrketcap API
+using coinamrketcap API https://coinmarketcap.com/
 
 Configure which cryptocurrency you want to focus on
 
