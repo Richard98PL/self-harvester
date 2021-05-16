@@ -1,3 +1,7 @@
+#HOW DO I WORK
+I check weekly fluctuation of selected cryptocurrency via coinmarketcapAPI and then I compare it with the fluctuation threshold set.
+basically automated buy low, sell high, that's it
+
 self-harvester
 
 HOSTED ON HEROKU
