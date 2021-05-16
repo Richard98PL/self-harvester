@@ -3,9 +3,9 @@
 I check weekly fluctuation of selected cryptocurrency once a day via coinmarketcapAPI and then I compare it with the fluctuation threshold set.
 basically automated buy low, sell high, that's it
 
-self-harvester
+self-harvester https://github.com/Richard98PL/self-harvester
 
-HOSTED ON HEROKU
+HOSTED ON HEROKU https://dashboard.heroku.com/
 
 using binance API https://www.binance.com/en
 
@@ -17,9 +17,9 @@ Configure your weekly fluctuation threshold
 
 logs/api_keys stored in MySQL
 
-scheduled for daily execution with Advanced Scheduler (heroku)
+scheduled for daily execution with Advanced Scheduler (heroku) https://app.advancedscheduler.io/
 
-db: clearDB MySQL (heroku)
+db: clearDB MySQL (heroku) https://www.cleardb.com/
 
 
 logs query - SELECT Id,Log FROM Logs ORDER BY Id DESC
