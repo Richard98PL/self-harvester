@@ -1,4 +1,5 @@
-HOSTED ON HEROKU: self-harvester
+self-harvester
+HOSTED ON HEROKU
 
 using binance API
 using coinamrketcap API
